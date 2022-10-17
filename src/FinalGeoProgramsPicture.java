@@ -21,6 +21,7 @@ public class FinalGeoProgramsPicture extends World {
                 }
             }
         }
+        // comment
         sky();
     }
     public void sky() {
